@@ -3,7 +3,7 @@
 * Abrimos VSCode en la carpeta donde vayamos a crear el proyecto
 * Abrimos la terminar y ejecutamos el comando "npx create-react-app nombre-de-la-app"
 * Luego abrimos VSCode en la carpeta que acabamos de crear con el comando anterior
-* Dentro de la carpeta SRC creamos varias carpetas llamadas componentes, css, imagenes
+* Dentro de la carpeta SRC creamos varias carpetas llamadas (componentes - css - imagenes)
 * Eliminamos varios archivos dentro de SRC (setupTests.js - reportWebVitals.js - App.test.js)
 * Dentro de index.js eliminamos las referencias a los scripts eliminados antieriormente (reportWebVitals)
 
