@@ -23,6 +23,9 @@
 
 # Codigos
 
+### `npx create-react-app nombre-de-la-app`
+Esto nos crea la carpeta con todo lo que vamos a necesitar 
+
 ### `npm start`
 Para iniciar el servidor local en el puerto 3000 => http://localhost:3000/
 Para finalizar basta con Ctrl + C en la terminal
