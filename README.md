@@ -6,12 +6,22 @@
 * Dentro de la carpeta SRC creamos varias carpetas llamadas (componentes - css - imagenes)
 * Eliminamos varios archivos dentro de SRC (setupTests.js - reportWebVitals.js - App.test.js)
 * Dentro de index.js eliminamos las referencias a los scripts eliminados antieriormente (reportWebVitals)
+* Ya podemos ejecutar en la terminal el comando "npm start"
+* Dentro de chrome vamos a instalar la herramienta para visualizar los componentes de react
+* Entramos en la tienda de google https://chrome.google.com/webstore/category/extensions
+* Buscamos "React" e instalamos "React developer tools", Luego reiniciamos Chrome
+* En las herramientas de desarrollador podremos ver "Componentes" y "Profiler" dandole a las flechas de ver mas
+
 
 ### Carpeta componentes
 
 * Dentro de la carpeta componentes vamos a crear todos los componentes jsx
 
-## Codigos
+# NOTAS
+
+* App.js es el componente principal de la aplicacion
+
+# Codigos
 
 ### `npm start`
 Para iniciar el servidor local en el puerto 3000 => http://localhost:3000/
